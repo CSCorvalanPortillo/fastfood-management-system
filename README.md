@@ -8,7 +8,7 @@
 
 ## Vista previa
 
-> ![Menú principal](menuprincipal.png)
+![Menú principal](menuprincipal.png)
 
 ---
 
