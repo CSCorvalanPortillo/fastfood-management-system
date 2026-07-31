@@ -8,7 +8,7 @@
 
 ## Vista previa
 
-![Menú principal](menúprincipal.png)
+![Menú principal](principal.PNG)
 
 ---
 
