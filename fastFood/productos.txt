@@ -1,0 +1,4 @@
+P0001,mCNIFICA,3000.0,false
+P0004,Cuarto de libra,2000.0,false
+P0002,,2000.0,true
+P0005,MOBUR,2000.0,true

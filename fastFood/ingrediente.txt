@@ -1,0 +1,2 @@
+I0002,Carne,1000.0
+I0003,Queso cheddar,500.0
